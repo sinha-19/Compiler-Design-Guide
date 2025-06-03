@@ -1,6 +1,6 @@
 # Compiler Design Guide
 
-Welcome to the **Compiler Guide** – a thorough and practical reference for mastering compiler theory, design, and implementation, tailored for interviews and deep understanding.
+Welcome to the **Compiler Design Guide** — a comprehensive, interview-focused reference for mastering compiler theory, design techniques, and implementation details. This guide is organized for step-by-step learning, practical exercises, and fast revision before interviews and exams.
 
 ---
 
@@ -24,48 +24,47 @@ Welcome to the **Compiler Guide** – a thorough and practical reference for mas
 
 ## 🚀 How to Use This Guide
 
-- **Study each phase:** Work through the sections in order to build a conceptual and practical foundation.
-- **Practice regularly:** Attempt the exercises, build diagrams, and write code for lexical analysis and parsing.
-- **Deepen understanding:** Follow up with the references at the end of each section for in-depth learning and real-world examples.
-- **Interview prep:** Use the Interview Patterns and Practice Q&A section for quick revision and targeted practice before interviews.
+- **Study systematically:** Each section builds foundational knowledge for the next. Start with the basics and work up to advanced topics.
+- **Practice regularly:** Try all exercises, draw diagrams, and attempt code snippets for lexical analysis and parsing.
+- **Use for revision:** The guide is structured for quick lookups and last-minute review before interviews.
+- **Explore references:** Each section ends with authoritative and practical reference links for deeper study.
 
 ---
 
 ## 📖 Essential References
 
-Below are key resources for foundational learning and further study.  
-**Each section of this guide also includes hand-picked, topic-specific links at the end.**
+Each section contains its own curated references, but here are the must-know resources for compiler design:
 
 ### Textbooks
-- **Compilers: Principles, Techniques, and Tools** (Aho, Lam, Sethi, Ullman) — [Pearson](https://www.pearson.com/en-us/subject-catalog/p/compilers-principles-techniques-and-tools-global-edition/P200000001288/9781292100555)
-- **Engineering a Compiler** (Keith Cooper, Linda Torczon) — [Elsevier](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
+- **Aho, Lam, Sethi, Ullman:** [Compilers: Principles, Techniques, and Tools ("Dragon Book")](https://www.pearson.com/en-us/subject-catalog/p/compilers-principles-techniques-and-tools-global-edition/P200000001288/9781292100555)
+- **Keith Cooper, Linda Torczon:** [Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
 
-### University Courses & Lectures
+### University Courses & Video Lectures
 - [Stanford CS143: Compilers](https://web.stanford.edu/class/cs143/)
 - [NPTEL: Compiler Design](https://nptel.ac.in/courses/106/105/106105190/)
-- [MIT OpenCourseWare 6.035: Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
+- [MIT OCW 6.035: Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
 ### Online Tutorials & Practice
 - [GeeksforGeeks - Compiler Design Tutorials](https://www.geeksforgeeks.org/compiler-design-tutorials/)
 - [Brilliant - Compiler Construction](https://brilliant.org/wiki/compiler-construction/)
 - [Wikipedia: Compiler](https://en.wikipedia.org/wiki/Compiler)
-- [Flex (Lexical Analyzer Generator)](https://westes.github.io/flex/manual.html)
-- [Bison (Parser Generator)](https://www.gnu.org/software/bison/manual/bison.html)
+- [Flex Manual (Lexical Analyzer Generator)](https://westes.github.io/flex/manual.html)
+- [Bison Manual (Parser Generator)](https://www.gnu.org/software/bison/manual/bison.html)
 
 ---
 
 ## 🏁 Why Master Compiler Design?
 
-- **Interview Excellence:** Stand out in interviews for systems, language, and backend roles.
-- **Deepen code understanding:** Know what happens from source code to executable.
-- **Language and tool creation:** Create new programming languages, interpreters, or static analysis tools.
-- **Systems insight:** Grasp performance, debugging, and optimization at the machine level.
+- **Interview Excellence:** Succeed in interviews for systems, languages, and backend roles.
+- **Deeper Programming Insight:** Understand the full journey from source code to running program.
+- **Language and Tool Building:** Learn how to design new languages, interpreters, or static analysis tools.
+- **Systems Perspective:** Grasp performance, debugging, and optimization at a low level.
 
 ---
 
-## 📬 Feedback & Contributions
+## 💡 Feedback & Contributions
 
-Found a mistake, have ideas, or want to contribute?  
+Find a mistake, have feedback, or want to contribute improvements?  
 Please open an issue or pull request!
 
 ---
