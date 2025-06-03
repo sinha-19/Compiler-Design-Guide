@@ -1,6 +1,6 @@
-# Compiler Design Interview Guide
+# Compiler Design Guide
 
-Welcome to the **Compiler Design Interview Guide** – a thorough and practical reference for mastering compiler theory, design, and implementation, tailored for interviews and deep understanding.
+Welcome to the **Compiler Guide** – a thorough and practical reference for mastering compiler theory, design, and implementation, tailored for interviews and deep understanding.
 
 ---
 
