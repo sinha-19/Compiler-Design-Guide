@@ -6,19 +6,21 @@ Welcome to the **Compiler Design Guide** — a comprehensive, interview-focused 
 
 ## 📚 Table of Contents
 
-1. [Introduction to Compiler Design](01_Introduction_to_Compiler_Design.md)
-2. [Phases of a Compiler](02_Phases_of_a_Compiler.md)
-3. [Lexical Analysis](03_Lexical_Analysis.md)
-4. [Syntax Analysis (Parsing)](04_Syntax_Analysis_Parsing.md)
-5. [Semantic Analysis](05_Semantic_Analysis.md)
-6. [Intermediate Code Generation](06_Intermediate_Code_Generation.md)
-7. [Code Optimization](07_Code_Optimization.md)
-8. [Code Generation](08_Code_Generation.md)
-9. [Error Handling and Recovery](09_Error_Handling_and_Recovery.md)
-10. [Symbol Tables and Scope Management](10_Symbol_Tables_and_Scope_Management.md)
-11. [Runtime Environment and Storage Management](11_Runtime_Environment_and_Storage_Management.md)
-12. [Advanced Topics (Bootstrapping, JIT, etc.)](12_Advanced_Topics_Compiler_Design.md)
-13. [Interview Patterns, Practice, and Q&A](13_Interview_Patterns_Practice_QA.md)
+| Section | Topic | YouTube Search Query Link |
+|---------|-------|--------------------------|
+| 1 | [Introduction to Compiler Design](01_Introduction_to_Compiler_Design.md) | [YouTube Search](https://www.youtube.com/results?search_query=Compiler+Design+Introduction+for+Beginners) |
+| 2 | [Phases of a Compiler](02_Phases_of_a_Compiler.md) | [YouTube Search](https://www.youtube.com/results?search_query=Phases+of+a+Compiler+in+Compiler+Design) |
+| 3 | [Lexical Analysis](03_Lexical_Analysis.md) | [YouTube Search](https://www.youtube.com/results?search_query=Lexical+Analysis+Compiler+Design) |
+| 4 | [Syntax Analysis (Parsing)](04_Syntax_Analysis_Parsing.md) | [YouTube Search](https://www.youtube.com/results?search_query=Syntax+Analysis+Parsing+Compiler+Design) |
+| 5 | [Semantic Analysis](05_Semantic_Analysis.md) | [YouTube Search](https://www.youtube.com/results?search_query=Semantic+Analysis+Compiler+Design) |
+| 6 | [Intermediate Code Generation](06_Intermediate_Code_Generation.md) | [YouTube Search](https://www.youtube.com/results?search_query=Intermediate+Code+Generation+Compiler+Design) |
+| 7 | [Code Optimization](07_Code_Optimization.md) | [YouTube Search](https://www.youtube.com/results?search_query=Code+Optimization+Compiler+Design) |
+| 8 | [Code Generation](08_Code_Generation.md) | [YouTube Search](https://www.youtube.com/results?search_query=Code+Generation+Compiler+Design) |
+| 9 | [Error Handling and Recovery](09_Error_Handling_and_Recovery.md) | [YouTube Search](https://www.youtube.com/results?search_query=Error+Handling+and+Recovery+in+Compiler+Design) |
+| 10 | [Symbol Tables and Scope Management](10_Symbol_Tables_and_Scope_Management.md) | [YouTube Search](https://www.youtube.com/results?search_query=Symbol+Table+Scope+Management+in+Compiler+Design) |
+| 11 | [Runtime Environment and Storage Management](11_Runtime_Environment_and_Storage_Management.md) | [YouTube Search](https://www.youtube.com/results?search_query=Runtime+Environment+Storage+Management+Compiler+Design) |
+| 12 | [Advanced Topics (Bootstrapping, JIT, etc.)](12_Advanced_Topics_Compiler_Design.md) | [YouTube Search](https://www.youtube.com/results?search_query=Advanced+Topics+in+Compiler+Design+Bootstrapping+JIT) |
+| 13 | [Interview Patterns, Practice, and Q&A](13_Interview_Patterns_Practice_QA.md) | [YouTube Search](https://www.youtube.com/results?search_query=Compiler+Design+Interview+Questions) |
 
 ---
 
@@ -27,24 +29,23 @@ Welcome to the **Compiler Design Guide** — a comprehensive, interview-focused 
 - **Study systematically:** Each section builds foundational knowledge for the next. Start with the basics and work up to advanced topics.
 - **Practice regularly:** Try all exercises, draw diagrams, and attempt code snippets for lexical analysis and parsing.
 - **Use for revision:** The guide is structured for quick lookups and last-minute review before interviews.
+- **Jump into video learning:** Click the YouTube search links above for focused video lectures and tutorials on each topic.
 - **Explore references:** Each section ends with authoritative and practical reference links for deeper study.
 
 ---
 
 ## 📖 Essential References
 
-Each section contains its own curated references, but here are the must-know resources for compiler design:
+**Textbooks**
+- [Aho, Lam, Sethi, Ullman: Compilers: Principles, Techniques, and Tools ("Dragon Book")](https://www.pearson.com/en-us/subject-catalog/p/compilers-principles-techniques-and-tools-global-edition/P200000001288/9781292100555)
+- [Keith Cooper, Linda Torczon: Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
 
-### Textbooks
-- **Aho, Lam, Sethi, Ullman:** [Compilers: Principles, Techniques, and Tools ("Dragon Book")](https://www.pearson.com/en-us/subject-catalog/p/compilers-principles-techniques-and-tools-global-edition/P200000001288/9781292100555)
-- **Keith Cooper, Linda Torczon:** [Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
-
-### University Courses & Video Lectures
+**University Courses & Video Lectures**
 - [Stanford CS143: Compilers](https://web.stanford.edu/class/cs143/)
 - [NPTEL: Compiler Design](https://nptel.ac.in/courses/106/105/106105190/)
 - [MIT OCW 6.035: Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
-### Online Tutorials & Practice
+**Online Tutorials & Practice**
 - [GeeksforGeeks - Compiler Design Tutorials](https://www.geeksforgeeks.org/compiler-design-tutorials/)
 - [Brilliant - Compiler Construction](https://brilliant.org/wiki/compiler-construction/)
 - [Wikipedia: Compiler](https://en.wikipedia.org/wiki/Compiler)
@@ -65,7 +66,7 @@ Each section contains its own curated references, but here are the must-know res
 ## 💡 Feedback & Contributions
 
 Find a mistake, have feedback, or want to contribute improvements?  
-Please open an issue or pull request!
+**Please open an issue or pull request!**
 
 ---
 
