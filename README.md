@@ -6,21 +6,21 @@ Welcome to the **Compiler Design Guide** — a comprehensive, interview-focused 
 
 ## 📚 Table of Contents
 
-| Section | Topic | YouTube Search Query Link |
+| Section | Topic | Video for Query|
 |---------|-------|--------------------------|
-| 1 | [Introduction to Compiler Design](01_Introduction_to_Compiler_Design.md) | [YouTube Search](https://www.youtube.com/results?search_query=Compiler+Design+Introduction+for+Beginners) |
-| 2 | [Phases of a Compiler](02_Phases_of_a_Compiler.md) | [YouTube Search](https://www.youtube.com/results?search_query=Phases+of+a+Compiler+in+Compiler+Design) |
-| 3 | [Lexical Analysis](03_Lexical_Analysis.md) | [YouTube Search](https://www.youtube.com/results?search_query=Lexical+Analysis+Compiler+Design) |
-| 4 | [Syntax Analysis (Parsing)](04_Syntax_Analysis_Parsing.md) | [YouTube Search](https://www.youtube.com/results?search_query=Syntax+Analysis+Parsing+Compiler+Design) |
-| 5 | [Semantic Analysis](05_Semantic_Analysis.md) | [YouTube Search](https://www.youtube.com/results?search_query=Semantic+Analysis+Compiler+Design) |
-| 6 | [Intermediate Code Generation](06_Intermediate_Code_Generation.md) | [YouTube Search](https://www.youtube.com/results?search_query=Intermediate+Code+Generation+Compiler+Design) |
-| 7 | [Code Optimization](07_Code_Optimization.md) | [YouTube Search](https://www.youtube.com/results?search_query=Code+Optimization+Compiler+Design) |
-| 8 | [Code Generation](08_Code_Generation.md) | [YouTube Search](https://www.youtube.com/results?search_query=Code+Generation+Compiler+Design) |
-| 9 | [Error Handling and Recovery](09_Error_Handling_and_Recovery.md) | [YouTube Search](https://www.youtube.com/results?search_query=Error+Handling+and+Recovery+in+Compiler+Design) |
-| 10 | [Symbol Tables and Scope Management](10_Symbol_Tables_and_Scope_Management.md) | [YouTube Search](https://www.youtube.com/results?search_query=Symbol+Table+Scope+Management+in+Compiler+Design) |
-| 11 | [Runtime Environment and Storage Management](11_Runtime_Environment_and_Storage_Management.md) | [YouTube Search](https://www.youtube.com/results?search_query=Runtime+Environment+Storage+Management+Compiler+Design) |
-| 12 | [Advanced Topics (Bootstrapping, JIT, etc.)](12_Advanced_Topics_Compiler_Design.md) | [YouTube Search](https://www.youtube.com/results?search_query=Advanced+Topics+in+Compiler+Design+Bootstrapping+JIT) |
-| 13 | [Interview Patterns, Practice, and Q&A](13_Interview_Patterns_Practice_QA.md) | [YouTube Search](https://www.youtube.com/results?search_query=Compiler+Design+Interview+Questions) |
+| 1 | [Introduction to Compiler Design](01_Introduction_to_Compiler_Design.md) | [Video](https://www.youtube.com/results?search_query=Compiler+Design+Introduction+for+Beginners) |
+| 2 | [Phases of a Compiler](02_Phases_of_a_Compiler.md) | [Video](https://www.youtube.com/results?search_query=Phases+of+a+Compiler+in+Compiler+Design) |
+| 3 | [Lexical Analysis](03_Lexical_Analysis.md) | [Video](https://www.youtube.com/results?search_query=Lexical+Analysis+Compiler+Design) |
+| 4 | [Syntax Analysis (Parsing)](04_Syntax_Analysis_Parsing.md) | [Video](https://www.youtube.com/results?search_query=Syntax+Analysis+Parsing+Compiler+Design) |
+| 5 | [Semantic Analysis](05_Semantic_Analysis.md) | [Video](https://www.youtube.com/results?search_query=Semantic+Analysis+Compiler+Design) |
+| 6 | [Intermediate Code Generation](06_Intermediate_Code_Generation.md) | [Video](https://www.youtube.com/results?search_query=Intermediate+Code+Generation+Compiler+Design) |
+| 7 | [Code Optimization](07_Code_Optimization.md) | [Video](https://www.youtube.com/results?search_query=Code+Optimization+Compiler+Design) |
+| 8 | [Code Generation](08_Code_Generation.md) | [Video](https://www.youtube.com/results?search_query=Code+Generation+Compiler+Design) |
+| 9 | [Error Handling and Recovery](09_Error_Handling_and_Recovery.md) | [Video](https://www.youtube.com/results?search_query=Error+Handling+and+Recovery+in+Compiler+Design) |
+| 10 | [Symbol Tables and Scope Management](10_Symbol_Tables_and_Scope_Management.md) | [Video](https://www.youtube.com/results?search_query=Symbol+Table+Scope+Management+in+Compiler+Design) |
+| 11 | [Runtime Environment and Storage Management](11_Runtime_Environment_and_Storage_Management.md) | [Video](https://www.youtube.com/results?search_query=Runtime+Environment+Storage+Management+Compiler+Design) |
+| 12 | [Advanced Topics (Bootstrapping, JIT, etc.)](12_Advanced_Topics_Compiler_Design.md) | [Video](https://www.youtube.com/results?search_query=Advanced+Topics+in+Compiler+Design+Bootstrapping+JIT) |
+| 13 | [Interview Patterns, Practice, and Q&A](13_Interview_Patterns_Practice_QA.md) | [Video](https://www.youtube.com/results?search_query=Compiler+Design+Interview+Questions) |
 
 ---
 
